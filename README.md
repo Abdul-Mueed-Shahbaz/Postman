@@ -1,4 +1,4 @@
-# Postman Pre-request Scripts Repository
+# Postman Pre-request Scripts
 
 This repository contains a collection of Pre-request Scripts for use in Postman. Pre-request Scripts are JavaScript code snippets that run before sending a request, allowing you to customize or manipulate the request dynamically.
 
